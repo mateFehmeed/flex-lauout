@@ -34,7 +34,7 @@
 } 
 #five { 
   grid-area: section; 
-  background-color: #fadafa;
+  background-color: #0f0f0f;
 }    
 #six { 
   grid-area: footer; 
